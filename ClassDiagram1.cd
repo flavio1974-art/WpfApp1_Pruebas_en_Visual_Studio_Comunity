@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="System.Object">
+    <Position X="11.25" Y="0.75" Width="1.25" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Window" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Controls.ContentControl" Collapsed="true">
+    <Position X="5.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfApp1.MainWindow">
+    <Position X="5.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Controls.Control" Collapsed="true">
+    <Position X="5.5" Y="7.25" Width="1.5" />
+    <InheritanceLine Type="System.Windows.FrameworkElement" FixedFromPoint="true">
+      <Path>
+        <Point X="6.375" Y="6.691" />
+        <Point X="6.375" Y="6.95" />
+        <Point X="6.25" Y="6.95" />
+        <Point X="6.25" Y="7.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.FrameworkElement" Collapsed="true">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <InheritanceLine Type="System.Windows.UIElement" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.25" Y="4.691" />
+        <Point X="6.25" Y="5.625" />
+        <Point X="6.5" Y="5.625" />
+        <Point X="6.5" Y="6" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier />
+    <Lollipop Position="0.115" />
+  </Class>
+  <Class Name="System.Windows.UIElement" Collapsed="true">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Windows.Media.Visual" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.DependencyObject" Collapsed="true">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Threading.DispatcherObject" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="WpfApp1.App">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Application" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="System.Windows.Markup.IAddChild">
+    <Position X="17.25" Y="6.5" Width="1.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="System.Windows.IFrameworkInputElement">
+    <Position X="19.25" Y="6.75" Width="1.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="System.Windows.IInputElement" Collapsed="true">
+    <Position X="19.5" Y="5.75" Width="1.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="System.Windows.Markup.IQueryAmbient" Collapsed="true">
+    <Position X="11.25" Y="4" Width="1.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="System.ComponentModel.ISupportInitialize" Collapsed="true">
+    <Position X="17.75" Y="5.75" Width="1.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="System.Windows.Markup.IComponentConnector">
+    <Position X="17.5" Y="8" Width="1.25" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="System.Windows.Media.Animation.IAnimatable" Collapsed="true">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
